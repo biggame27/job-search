@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobs-2",
+    "extra": {
+      "eas": {
+        "projectId": "16fc9fa7-f732-4d28-ab0c-1e2493e00274"
+      }
+    },
+    "owner": "hariko"
   }
 }
